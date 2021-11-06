@@ -1,0 +1,7 @@
+Install streamlin on windows:
+ pip install streamlit 
+ 
+Install streamlin on linux/ MAC:
+ sudo easy_install pip
+ 
+ sudo apt-get install python3-pip
